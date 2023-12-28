@@ -1,0 +1,82 @@
+
+
+
+@font-face {
+  font-family: "Tenor Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//babjan-shop.myshopify.com/cdn/fonts/tenor_sans/tenorsans_n4.ef7b684f1cfa0d3a90338d1fa5f36acdf7889632.woff2?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=cfe8e4e0921d7297c4e0e3adafaf88dfa11a3c7f59b0c6e012154d7d08e87c3d") format("woff2"),
+       url("//babjan-shop.myshopify.com/cdn/fonts/tenor_sans/tenorsans_n4.514efc84ed8364b455bb5dd12e65583fe93ccf0f.woff?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=c0145a6775195cdce561e17d7ee5102ddb048521f1f7d1471015e09d15ceb815") format("woff");
+}
+
+@font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//babjan-shop.myshopify.com/cdn/fonts/harmonia_sans/harmoniasans_n4.73cf0589f7839ec88463a09f5335a2885467ed0c.woff2?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=ba7a610c56ca20d5de5773f5a345759d7fac87cc5491f55f978582bd57384ac4") format("woff2"),
+       url("//babjan-shop.myshopify.com/cdn/fonts/harmonia_sans/harmoniasans_n4.1c5276ef69780b63aa8f0ba7897fb3bc87270bb0.woff?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=76592b55697b27da8b04c7be340a5d1416fbbb00c0c404c6be81feefa885a03d") format("woff");
+}
+
+@font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//babjan-shop.myshopify.com/cdn/fonts/harmonia_sans/harmoniasans_n4.73cf0589f7839ec88463a09f5335a2885467ed0c.woff2?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=ba7a610c56ca20d5de5773f5a345759d7fac87cc5491f55f978582bd57384ac4") format("woff2"),
+       url("//babjan-shop.myshopify.com/cdn/fonts/harmonia_sans/harmoniasans_n4.1c5276ef69780b63aa8f0ba7897fb3bc87270bb0.woff?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=76592b55697b27da8b04c7be340a5d1416fbbb00c0c404c6be81feefa885a03d") format("woff");
+}
+
+
+
+
+
+  @font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//babjan-shop.myshopify.com/cdn/fonts/harmonia_sans/harmoniasans_n6.dd3d6084d29e4754e80fe6aa1c0e37f511474ffa.woff2?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=99abe03bdf3cea42120f1b918d6a3b5740206f1175585533f9ce44e0c4e94d58") format("woff2"),
+       url("//babjan-shop.myshopify.com/cdn/fonts/harmonia_sans/harmoniasans_n6.b0d6879084373b473d0c7a4c3d54ece9c289cbb4.woff?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=8701af2089cba2cd745cf3f3e150c669c9da2e19ce38d096beb2b6f1d50cbe2b") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//babjan-shop.myshopify.com/cdn/fonts/harmonia_sans/harmoniasans_n6.dd3d6084d29e4754e80fe6aa1c0e37f511474ffa.woff2?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=99abe03bdf3cea42120f1b918d6a3b5740206f1175585533f9ce44e0c4e94d58") format("woff2"),
+       url("//babjan-shop.myshopify.com/cdn/fonts/harmonia_sans/harmoniasans_n6.b0d6879084373b473d0c7a4c3d54ece9c289cbb4.woff?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=8701af2089cba2cd745cf3f3e150c669c9da2e19ce38d096beb2b6f1d50cbe2b") format("woff");
+}
+
+
+
+
+
+
+
+  @font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//babjan-shop.myshopify.com/cdn/fonts/harmonia_sans/harmoniasans_i4.ccbfea79fd847e76d49925a923aa89064359e629.woff2?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=42b3fd0594cd95c84c72b52c48a290d02191ea59a6b3edb339614ee05a3425f0") format("woff2"),
+       url("//babjan-shop.myshopify.com/cdn/fonts/harmonia_sans/harmoniasans_i4.e5c05a10aacfb8cc7fdf892df8dba937a214e6e7.woff?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=7b8c80ceb9d2cef7cbbb67d8be9e49b18fcc73348b15992a961a77dbb4ff3216") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+  src: url("//babjan-shop.myshopify.com/cdn/fonts/harmonia_sans/harmoniasans_i6.d520474355816f56169b3a79baa14d2c479da2ba.woff2?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=1913312ac0e237756bdc55b752eed19676fb66de18f6a7f0c9e61c0855a2f107") format("woff2"),
+       url("//babjan-shop.myshopify.com/cdn/fonts/harmonia_sans/harmoniasans_i6.5ea0fa072a0601a91bbd7e0301549f9159a09ada.woff?h1=YmFiamFuLXNob3AuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=4601386b6e31748ddea1b25404218be424b0af3353ad0c528f90093e3ba4916d") format("woff");
+}
+
+
